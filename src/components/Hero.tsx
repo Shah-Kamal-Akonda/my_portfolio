@@ -47,8 +47,9 @@ const Hero = () => {
 
           
 
-            <p className="text-center text-xl max w-[500px] mx-auto mt-8 text-white/80">
-                I am a full-stack developer focused on crating websites that provide the best experience for users.
+           <p className="text-center text-xl w-[90%] max-w-[500px] mx-auto mt-8 text-white/80">
+
+                I am a full-stack developer focused on crating websites  that provide the best experience for users.
             </p>
 
             <Image
